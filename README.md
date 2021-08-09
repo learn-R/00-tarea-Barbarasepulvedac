@@ -73,7 +73,7 @@ Luego de leer esta breve introducción, debes contestar esta guía:
 
 1. ¿Cuál es tu nombre?
 
-R:
+R:B�rbara Sep�lveda
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
