@@ -77,7 +77,7 @@ R:Bárbara Sepúlveda
 
 2. Â¿CuÃ¡l es la diferencia entre R y RStudio?
 
-
+R: R es un lenguaje y ambiente dentro del cual se pueden utilizar tecnicas de estadística y Rstudio es el entorno de desarrollo integrado de R
 
 3. Â¿Con quÃ© comando puedes **subir** los cambios del repositorio local al remoto?
 R: Clickeando en Push
