@@ -73,11 +73,11 @@ Luego de leer esta breve introducción, debes contestar esta guía:
 
 1. ¿Cuál es tu nombre?
 
-R:B�rbara Sep�lveda
+R:B?rbara Sep?lveda
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
-
+R: R es un lenguaje y ambiente dentro del cual se pueden utilizar tecnicas de estad?stica y Rstudio es el entorno de desarrollo integrado de R
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
 R: Clickeando en Push
